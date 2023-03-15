@@ -1,3 +1,4 @@
+
 import { StarIcon } from "@heroicons/react/solid"
 import Image from "next/image"
 import Currency from "react-currency-formatter"
