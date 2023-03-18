@@ -56,7 +56,7 @@ function Header() {
       </div>
 
       {/* bottom nav */}
-      <div className='flex items-center bg-amazon_blue-light text-white text-sm space-x-3 p-2 pl-2'>
+      {/* <div className='flex items-center bg-amazon_blue-light text-white text-sm space-x-3 p-2 pl-2'>
       <p className='link flex items-center'>
         <MenuIcon className="h-6 mr-1"/>
     </p>
@@ -69,7 +69,7 @@ function Header() {
         <p className='link hidden lg:inline-flex'>Buy Again</p>
         <p className='link hidden lg:inline-flex'>Shopper Toolkit</p>
         <p className='link hidden lg:inline-flex'>Health & Personal Care</p>
-      </div>
+      </div> */}
     </header>
   )
 }
